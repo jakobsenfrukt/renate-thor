@@ -7,7 +7,7 @@
     </h1>
     <nav>
       <nuxt-link to="/projects">Work</nuxt-link>
-      <a href="https://renatethor.bigcartel.com/" target="_blank">Shop</a>
+      <a href="https://renatethor.myshopify.com" target="_blank">Shop</a>
       <nuxt-link to="/about">About</nuxt-link>
       <div class="contact-links">
         <a :href="`mailto:${$store.state.global.footer.email}?subject=🔴🔴🔴`" target="_blank" class="contact">
